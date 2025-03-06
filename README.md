@@ -102,6 +102,39 @@ Meu nome é Guilherme Fujita, sou de São Paulo - SP e formado em Ciência da Co
 <br/>
 <br/>
 
+### Certificações
+<img 
+    align="left" 
+    alt="azure fundamentals"
+    title="Azure Fundamentals" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+/>
+
+<img 
+    align="left" 
+    alt="azure data fundamentals"
+    title="Azure Data Fundamentals" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/twitter_thumb_201604_azure-data-fundamentals-600x600.png"
+/>
+
+<img 
+    align="left" 
+    alt="security fundamentals"
+    title="Microsoft Security, Compliance and Identity Fundamentals" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/twitter_thumb_201604_security-compliance-and-identity-fundamentals-600x600.png"
+/>
+
+<br>
+<br>
+<br>
+<br>
+
 ### 📊 Estatísticas
 
 <!--<p>
