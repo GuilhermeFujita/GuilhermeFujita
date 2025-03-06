@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Fujita
+# 👨‍💻 Guilherme Fujita
 
 **`Software Developer`**
 
