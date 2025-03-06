@@ -102,7 +102,7 @@ Meu nome é Guilherme Fujita, sou de São Paulo - SP e formado em Ciência da Co
 <br/>
 <br/>
 
-### Certificações
+### 🏅 Certificações
 <img 
     align="left" 
     alt="azure fundamentals"
